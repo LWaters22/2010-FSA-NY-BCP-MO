@@ -43,6 +43,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
 
+[Lecture Slides](Slides/01.Introduction-and-Tidy-Code.pdf)
+
 ### Notes 
 [Full Notes](01-tidy-code)
 
