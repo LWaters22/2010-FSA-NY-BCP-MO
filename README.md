@@ -62,6 +62,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
+[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
+
 <!-- **[Live Lecture]()** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
