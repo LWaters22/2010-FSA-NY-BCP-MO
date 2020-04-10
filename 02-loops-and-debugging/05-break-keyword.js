@@ -43,12 +43,12 @@ while (wonLottery === false) {
   ticketsPurchased++;
 }
 
-if (wonLottery) {
-  console.log(`You finally won! It only took ${ticketsPurchased} tickets to win`);
-} else {
-  console.log(`You spent too much on tickets, we had to make it stop`);
-}
+// if (wonLottery) {
+//   console.log(`You finally won! It only took ${ticketsPurchased} tickets to win`);
+// } else {
+//   console.log(`You spent too much on tickets, we had to make it stop`);
+// }
 
-// const cat = 'Pusheen';
-// console.log(cat);
+const cat = 'pusheen'
+console.log(cat)
 

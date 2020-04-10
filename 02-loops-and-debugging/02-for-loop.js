@@ -27,7 +27,6 @@
 
 /* the initialization is run first, and only once. it's often used to define a counter variable */
 
-
 /* then, before every iteration, the condition is checked to see if it's true - if it is, the for loop will run another iteration */
 
 /* then, after each iteration, the final expression is run */
@@ -47,6 +46,9 @@
 //   console.log('i is:', i);
 // }
 
+// for (let i = 400; i <= 300; i += 100) {
+//   console.log('i is:', i);
+// }
 
 
 // Are for loops just for counting??
@@ -63,7 +65,7 @@ let letters = 'abcdefg';
 // console.log(letters[6]) // 'g'
 // console.log(letters[7]); // undefined
 
-// console.log(letters.length);
+// console.log(letters.length); // 7
 
 // for (let i = 0; i < letters.length; i++) {
 //   let currentLetter = letters[i];
@@ -82,9 +84,9 @@ let letters = 'abcdefg';
 // FOR THIS WORKSHOP
 // important to note -> strings are inmutable
 // what does this mean???
-console.log(letters);
-letters[0] = 'Z';
-console.log(letters);
+// console.log(letters);
+// letters[0] = 'Z';
+// console.log(letters);
 // nothing happened!
 
 
@@ -92,19 +94,21 @@ console.log(letters);
 
 // Try it out:
 // make a capitalized version of our letters string
-// let newStr = ''; // undefined
+let newStr = ''; // undefined
+letters += '7';
 
-// for (let i = 0; i < letters.length; i++) {
-//   let currentLetter = letters[i];
-//   // making it an uppercase letter
-//   let capitalLetter = currentLetter.toUpperCase();
-//   letters[i] = capitalLetter;
-//   // '' + 'A'
-//   // 'A' + 'B'
-//   // 'AB' + 'C'
-//   newStr = newStr + capitalLetter;
-//   console.log(`The letter at index ${i} is ${capitalLetter}`);
-// }
+console.log(letters)
+for (let i = 0; i < letters.length; i++) {
+  let currentLetter = letters[i];
+  // making it an uppercase letter
+  let capitalLetter = currentLetter.toUpperCase();
+  letters[i] = capitalLetter;
+  // '' + 'A'
+  // 'A' + 'B'
+  // 'AB' + 'C'
+  newStr = newStr + capitalLetter;
+  console.log(`The letter at index ${i} is ${capitalLetter}`);
+}
 
-// console.log(newStr);
-// console.log(letters);
+console.log(newStr);
+console.log(letters);

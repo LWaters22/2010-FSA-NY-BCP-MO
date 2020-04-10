@@ -13,7 +13,6 @@
   the block of code will run over and over as long as the conditional expression evaluates to true
 
 */
-
 // let count = 3;
 // while (count >= 1) {
 //   console.log('count is', count);
@@ -39,3 +38,10 @@
 //   console.log('count is', count);
 //   count--;
 // }
+
+
+let count = 0;
+while (count < 100) {
+  console.log('count is', count)
+  count += 10; // count = count + 10;
+}
