@@ -64,11 +64,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/V1HdKQRHWI8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 ### Notes 
 [Full Notes](02-loops-and-debugging)
