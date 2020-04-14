@@ -33,7 +33,6 @@ Other primitive types:
   - undefined
   - Symbol (not covered in this course)
 
-
 "Complex" or "object" types:
 ---------------------------
 - functions
