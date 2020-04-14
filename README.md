@@ -9,7 +9,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-
+4. [Scope](#04-scope)
 ## Additional Resources
 
 - [Repl.it](https://repl.it/repls) Play around with code!
@@ -101,3 +101,25 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 5. [Boolean Coercion 2](03-coercion-and-truthiness/06-boolean-coercion-2.js)
 6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
+
+
+## **04 Scope**
+
+<!-- **[Live Lecture]()** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+
+### Notes 
+[Full Notes](04-scope)
+
+1. [Global Scope](04-scope/01-global-scope.js)
+2. [Global Scope II](04-scope/02-global-scope-ii.js)
+3. [Functional Scope](04-scope/03-functional-scope.js)
+4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
+5. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
+6. [Nested Functions](04-scope/06-nested-functions.js)
+7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
+8. [Block Scope](04-scope/08-block-scope.js)
+9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
