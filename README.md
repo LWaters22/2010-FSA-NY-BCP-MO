@@ -8,6 +8,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 
 ## Additional Resources
 
