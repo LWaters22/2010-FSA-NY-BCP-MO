@@ -98,5 +98,5 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Implicit Coercion 2](03-coercion-and-truthiness/04-implicit-coercion-2.js)
 4. [Boolean Coercion 1](03-coercion-and-truthiness/05-boolean-coercion-1.js)
 5. [Boolean Coercion 2](03-coercion-and-truthiness/06-boolean-coercion-2.js)
-6. [Boolean Coercion 3](03-coercion-and-truthiness/06-boolean-coercion-3.js)
+6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
