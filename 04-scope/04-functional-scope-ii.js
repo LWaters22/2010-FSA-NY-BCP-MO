@@ -11,10 +11,10 @@
 
 
 /* What if a variable is defined locally and globally? */
-let message = 'think globally';
-function logAMessage() {
-  let msg = 'act locally';
-  /* if it can't find it locally, JS will look at the scope outside the function, this case, the global scope */ 
-  console.log(message);
-}
-logAMessage();
+// let message = 'think globally';
+// function logAMessage() {
+//   let msg = 'act locally';
+//   /* if it can't find it locally, JS will look at the scope outside the function, this case, the global scope */ 
+//   console.log(message);
+// }
+// logAMessage();

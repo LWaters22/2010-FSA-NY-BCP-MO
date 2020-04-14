@@ -40,14 +40,14 @@ outer('outer');
 
 // /* Example 4
 
-let collision = 'global';
-function outer(){
-  function inner() {
-    console.log(collision)
-  }
-  inner()
-}
-outer('outer');
+// let collision = 'global';
+// function outer(){
+//   function inner() {
+//     console.log(collision)
+//   }
+//   inner()
+// }
+// outer('outer');
 
 // */
 
