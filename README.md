@@ -83,7 +83,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/PgeygPL3V8c)**
+**[Live Lecture](https://youtu.be/x0K-tGFs9Ck)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
