@@ -10,6 +10,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
+
 ## Additional Resources
 
 - [Repl.it](https://repl.it/repls) Play around with code!
@@ -102,16 +103,16 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
 
-
 ## **04 Scope**
 
 **[Live Lecture](https://youtu.be/bkONsN8SqX0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-### Notes 
+### Notes
+
 [Full Notes](04-scope)
 
 1. [Global Scope](04-scope/01-global-scope.js)
@@ -123,3 +124,30 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
 8. [Block Scope](04-scope/08-block-scope.js)
 9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
+
+## **05 Arrays I**
+
+<!-- **[Live Lecture](https://youtu.be/bkONsN8SqX0)** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+
+### Notes
+
+[Full Notes](05-arrays-I)
+
+1. [Array Definition](05-arrays-I/A-array-definition.js)
+2. [Typeof & Array.isArray()](05-arrays-I/B-typeof-isArray.js)
+3. [Bracket Access](05-arrays-I/C-bracket-access.js)
+4. [Bracket Assignment](05-arrays-I/D-br-assignment.js)
+5. [Array Looping](05-arrays-I/E-array-looping.js)
+6. [Array Length](05-arrays-I/F-array-length.js)
+7. [Array.push()](05-arrays-I/G-array-push.js)
+8. [Array.pop()](05-arrays-I/H-array-pop.js)
+9. [Array.shift()](05-arrays-I/I-array-shift.js)
+10. [Array.unshift()](05-arrays-I/J-array-unshift.js)
+11. [Array.indexOf()](05-arrays-I/K-array-indexof.js)
+12. [Array.slice()](05-arrays-I/L-array-slice.js)
+13. [Array.includes()](05-arrays-I/M-array-includes.js)
+14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
