@@ -20,7 +20,7 @@ outer();
 function outer() {
   let outerVar = 'outer';
   function inner(outerVar) {
-    // outerVar undefined
+    // outerVar = undefined
     let innerVar = 'inner';
     console.log(outerVar, innerVar);
   }
