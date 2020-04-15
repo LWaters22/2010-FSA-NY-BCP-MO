@@ -105,7 +105,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **04 Scope**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/bkONsN8SqX0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
