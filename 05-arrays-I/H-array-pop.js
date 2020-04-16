@@ -1,11 +1,11 @@
 /* .pop removes one element from the end of the array. it returns the removed element */
 
-let names = ['George', 'John', 'Thomas'];
+// let names = ['George', 'John', 'Thomas'];
 
-let jefferson = names.pop();
+// let jefferson = names.pop();
 
-console.log(names);
-console.log(jefferson);
+// console.log(names);
+// console.log(jefferson);
 
 /*
 Notes:
@@ -21,16 +21,16 @@ Notes:
 
 /* Using .pop within a loop can help us here.*/
 
-// let names = ['George', 'John', 'Thomas'];
+let names = ['George', 'John', 'Thomas'];
 
-// /*
-// This time we'll use a while loop because the only thing we're interested in keeping track of is one condition,which is whether the names array has any elements left in it or not
-// */
-// while(names.length > 0){ 
-// 	names.pop(); //remove the element at the end of the array
-// }
+/*
+This time we'll use a while loop because the only thing we're interested in keeping track of is one condition,which is whether the names array has any elements left in it or not
+*/
+while(names.length > 0){ 
+	names.pop(); //remove the element at the end of the array
+}
 
-// console.log(names);
+console.log(names);
 
 /*
 Notes:

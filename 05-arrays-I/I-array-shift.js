@@ -2,14 +2,14 @@
 
 /* it's called shift because the indices for every element in the array are shifted over by one */
 
-let names = ['George', 'John', 'Thomas'];
+// let names = ['George', 'John', 'Thomas'];
 
-let washington = names.shift();
+// let washington = names.shift();
 
-console.log(names); 
-// note that now 'John' is at index 0, and 'Thomas' is at index 1
+// console.log(names); 
+// // note that now 'John' is at index 0, and 'Thomas' is at index 1
 
-console.log(washington); // the removed element 
+// console.log(washington); // the removed element 
 
 /*
 Notes:
@@ -25,16 +25,16 @@ Notes:
 
 /* Using .shift within a loop can help us here.*/
 
-// let names = ['George', 'John', 'Thomas'];
+let names = ['George', 'John', 'Thomas'];
 
-// /*
-// We'll use a while loop again because the only thing we're interested in keeping track of is one condition,which is whether the names array has any elements left in it or not
-// */
-// while(names.length > 0){ 
-// 	names.shift(); //remove the element at the beginning of the array
-// }
+/*
+We'll use a while loop again because the only thing we're interested in keeping track of is one condition,which is whether the names array has any elements left in it or not
+*/
+while(names.length > 0){ 
+	names.shift(); //remove the element at the beginning of the array
+}
 
-// console.log(names);
+console.log(names);
 
 /*
 Notes:
