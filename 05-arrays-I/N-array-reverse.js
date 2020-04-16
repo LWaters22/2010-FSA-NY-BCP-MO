@@ -13,6 +13,9 @@ Notes:
 */
 
 // --------------------------------------
+
 /*
-If anybody is interested, the way to reverse an array without mutation is to use slice() first to create a copy of the original array, and then use reverse() on that array copy (possible to chain the methods)
+If anybody is interested, the way to reverse an array without mutation is to:
+1. use slice() first to create a copy of the original array, and then 
+2. use reverse() on that array copy (possible to chain the methods)
 */
