@@ -10,6 +10,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
+5. [Arrays I](#05-arrays-I)
+6. [Arrays II](#05-arrays-II)
 
 ## Additional Resources
 
@@ -127,11 +129,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **05 Arrays I**
 
-<!-- **[Live Lecture](https://youtu.be/bkONsN8SqX0)** -->
+**[Live Lecture](https://youtu.be/86IVxke3bx0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 ### Notes
 
@@ -151,3 +153,22 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 12. [Array.slice()](05-arrays-I/L-array-slice.js)
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
+
+## **06 Arrays II**
+
+<!-- **[Live Lecture](https://youtu.be/86IVxke3bx0)** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text) -->
+
+### Notes
+
+[Full Notes](06-arrays-II)
+
+1. [Array.splice()](06-arrays-II/A-splice.js)
+2. [Array.join()](06-arrays-II/B-join.js)
+3. [Array.concat()](06-arrays-II/C-concat.js)
+4. [Nested Arrays](06-arrays-II/D-nested-arrays.js)
+5. [Nested Loops](06-arrays-II/E-nested-looping.js)
+6. [Grid](06-arrays-II/F-grid.js)
