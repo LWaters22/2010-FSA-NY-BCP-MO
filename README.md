@@ -156,11 +156,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **06 Arrays II**
 
-<!-- **[Live Lecture](https://youtu.be/86IVxke3bx0)** -->
+**[Live Lecture](https://youtu.be/FOx6DlR0ftQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 ### Notes
 
