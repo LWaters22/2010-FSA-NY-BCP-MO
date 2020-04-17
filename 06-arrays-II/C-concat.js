@@ -1,6 +1,6 @@
 /* .concat merges two or more arrays into one */
 
-/* it returns a new, larger array, but doesn't change the original arrays on which .splice was called */
+/* it returns a new, larger array, but doesn't change the original arrays on which .concat was called */
 
 let older = ['Ringo', 'John'];
 let younger = ['Paul', 'George'];

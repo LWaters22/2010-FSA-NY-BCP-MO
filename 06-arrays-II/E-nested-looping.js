@@ -6,7 +6,7 @@ for (let i = 0; i < rsvpGroups.length; i++) {
   let element = rsvpGroups[i]; // not sure if this is a string or an array
   if (Array.isArray(element)) {
     for (let j = 0; j < element.length; j++) {
-      let name = element[j];
+      let name = element[j]; //rsvpGroups[i][j]
       console.log(name);
     }
   } 
