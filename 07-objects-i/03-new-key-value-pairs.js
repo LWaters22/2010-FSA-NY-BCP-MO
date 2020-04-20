@@ -28,19 +28,19 @@ use bracket notation or dot notation to change a value
 
 */
 
-let pusheen = {
-  name: 'Pusheen',
-  age: 7,
-  colour: 'gray and tabby'
-};
+// let pusheen = {
+//   name: 'Pusheen',
+//   age: 7,
+//   colour: 'gray and tabby'
+// };
 
 
 // pusheen.age++; // pusheen.age = pusheen.age + 1;
 // pusheen.age = 45;
 // pusheen["age"]++; //pusheen["age"] = pusheen["age"] + 1;
-pusheen["age"] = 45;
+// pusheen["age"] = 45;
 
-pusheen.colour = "Brown";
-console.log(pusheen);
+// pusheen.colour = "Brown";
+// console.log(pusheen);
 // console.log("pusheen age", pusheen.age);
 // console.log(pusheen);
