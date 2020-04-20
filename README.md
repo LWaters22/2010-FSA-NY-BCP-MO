@@ -172,3 +172,43 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Nested Arrays](06-arrays-II/D-nested-arrays.js)
 5. [Nested Loops](06-arrays-II/E-nested-looping.js)
 6. [Grid](06-arrays-II/F-grid.js)
+
+
+## **07 Objects I**
+
+<!-- **[Live Lecture]()** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
+
+### Notes 
+[Full Notes](07-objects-i)
+
+0. [Code Snippets](07-objects-i/00-code-snippets.js)
+1. [What is an Object](07-objects-i/01-what-is-an-object.js)
+2. [Create And Access](07-objects-i/02-create-and-access.js)
+3. [New Key-Value Pairs](07-objects-i/03-new-key-value-pairs.js)
+4. [Delete Key-Value Pairs](07-objects-i/04-delete-key-value-pairs.js)
+5. [In Operator](07-objects-i/05-in-operator.js)
+6. [For In Loop](07-objects-i/06-for-in-loop.js)
+7. [Object Methods](07-objects-i/07-object-methods.js)
+8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
+9. [Nested Objects](07-objects-i/09-nested-object.js)
+
+<!-- ## **08 Object II**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+
+### Notes 
+[Full Notes](08-objects-ii)
+
+1. [What Are Methods](08-objects-ii/01-what-are.js)
+2. [Creating Methods](08-objects-ii/02-creating-methods.js)
+3. [Object Methods](08-objects-ii/03-object-methods.js)
+4. [This Keyword](08-objects-ii/04-this-keyword.js)
+5. [Calculator Example](08-objects-ii/05-calc-example.js) -->
