@@ -39,7 +39,7 @@ let pusheen = {
 
   sayAge: function(){
     console.log('I am 7 years old.');
-  }
+  },
 };
 
 /*

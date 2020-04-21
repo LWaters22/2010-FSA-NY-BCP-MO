@@ -7,4 +7,5 @@
 
 let countries = ['Argentina', 'Bolivia', 'Brazil', 'Chile'];
 
-console.log(countries.indexOf('Brazil'))
+console.log(countries.indexOf('Brazil'));
+console.log(countries.forEach(console.log))

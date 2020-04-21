@@ -44,8 +44,8 @@ bank.getBankInfo();
 bank.transfer(10);
 bank.getBankInfo();
 
-bank.depositXIntoN(45, 'checking');
-bank.getBankInfo();
+// bank.depositXIntoN(45, 'checking');
+// bank.getBankInfo();
 
 
 

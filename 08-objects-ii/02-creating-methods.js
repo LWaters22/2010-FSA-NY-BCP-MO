@@ -26,18 +26,17 @@ let pusheen = {
   age: 7,
   color: 'gray and tabby',
   isHappy: true,
-  myMethod: function(){
-    console.log('This is my method');
+  myMethod: function () {
+    console.log('I am a method')
   },
   sayHi: function() {
     console.log('Hello I am pusheen.')
-  },
-
+  }
 };
-pusheen.myMethod();
-// console.log(pusheen.myMethod);
-// console.log(pusheen.name);
-pusheen.sayHi();
+// pusheen.myMethod();
+console.log(pusheen.myMethod);
+console.log(pusheen.name);
+// pusheen.sayHi();
 
 
 /** 
