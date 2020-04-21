@@ -86,14 +86,23 @@ pass a string into the brackets that corresponds with a key in the object
 you can also use dot notation to access values
 
 */
-// let keyToCheck = 'name';
-// console.log(pusheen);
 
-// console.log(pusheen.age);
-// console.log(pusheen.colour);
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  colour: 'gray and tabby',
+  isHappy: true,
+  favouriteFood: 'cookies',
+};
+
+let keyToCheck = 'name';
+console.log(pusheen);
+
+console.log(pusheen.age);
+console.log(pusheen.colour);
 
 // // YOU CAN NOT USE VARIABLES WITH DOT NOTATION !!
 
 // console.log(pusheen.keyToCheck); //undefined
 // // ! will not work
-// console.log(pusheen.name); // no quotes needed with dot notation
+console.log(pusheen.name); // no quotes needed with dot notation

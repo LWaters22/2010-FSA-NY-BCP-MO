@@ -13,7 +13,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 // const arrOfKeys = Object.keys(pusheen);
 // console.log(arrOfKeys);
 
-// // key => value
+// // // key => value
 // for (let i = 0; i < arrOfKeys.length; i++){
 //   const key = arrOfKeys[i];
 //   console.log('The key at index i', i , "is", key);
@@ -49,6 +49,10 @@ use Object.values() to get an array of the values in the object
   use Object.entries() to get an array of the entries in the object 
 
   you will get a nested array here
+  [
+    [key1, value1],
+    [key2, value2]
+  ]
 */
 
 // let pusheen = {

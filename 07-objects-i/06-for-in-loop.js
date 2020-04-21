@@ -11,9 +11,9 @@ let pusheen = {
   color: 'gray and tabby'
 };
 
-for (let attribute in pusheen) {
-  console.log("What is the key?? ", attribute);
-}
+// for (let banana in pusheen) {
+//   console.log("What is the key?? ", banana);
+// }
 
 //1
 // for (let key in pusheen) {
@@ -23,8 +23,8 @@ for (let attribute in pusheen) {
 // }
 
 //2
-// for (let key in pusheen) {
-//   // key = name
-//   const value = pusheen.key; // pusheen @ key
-//   console.log("Pusheen's", key, 'is', value);
-// }
+for (let key in pusheen) {
+  // key = name
+  const value = pusheen.key; // pusheen @ key
+  console.log("Pusheen's", key, 'is', value);
+}

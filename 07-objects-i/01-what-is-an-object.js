@@ -50,15 +50,15 @@ let myObject = {
 
 /* 
 
-  typeof - what is the typeof an array??
+  typeof - what is the typeof an object??
 
 */
 
-// console.log(typeof {}); // object
-// console.log(typeof []); // object
+console.log(typeof {}); // object
+console.log(typeof []); // object
 
-// console.log(Array.isArray({})) // false
-// console.log(Array.isArray([])) // true
+console.log(Array.isArray({})) // false
+console.log(Array.isArray([])) // true
 
 // const unknown = [];
 
@@ -70,6 +70,19 @@ let myObject = {
 
 */
 
+
+const isActuallyObj = (val) => {
+  if (typeof val !== 'object') {
+    return false;
+  }
+  // {} ? [] ?
+  // {}
+  // []
+  if (Array.isArray(val)) {
+    return false;
+  }
+  return true;
+}
 
 //  typeof
 // Array.isArray
