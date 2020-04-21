@@ -176,7 +176,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **07 Objects I**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
