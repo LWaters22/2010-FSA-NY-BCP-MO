@@ -196,13 +196,13 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 
-<!-- ## **08 Object II**
+## **08 Object II**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/GZCwhot5uBA)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
 
 ### Notes 
 [Full Notes](08-objects-ii)
@@ -211,4 +211,4 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 2. [Creating Methods](08-objects-ii/02-creating-methods.js)
 3. [Object Methods](08-objects-ii/03-object-methods.js)
 4. [This Keyword](08-objects-ii/04-this-keyword.js)
-5. [Calculator Example](08-objects-ii/05-calc-example.js) -->
+5. [Calculator Example](08-objects-ii/05-calc-example.js)
