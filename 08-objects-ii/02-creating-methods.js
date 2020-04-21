@@ -27,7 +27,7 @@ let pusheen = {
   color: 'gray and tabby',
   isHappy: true,
   myMethod: function(){
-    console.log("This is my method");
+    console.log('This is my method');
   },
   sayHi: function() {
     console.log('Hello I am pusheen.')
@@ -38,3 +38,8 @@ pusheen.myMethod();
 // console.log(pusheen.myMethod);
 // console.log(pusheen.name);
 pusheen.sayHi();
+
+
+/** 
+ * so TL;DR -> a method is simply a function specific to an object
+*/

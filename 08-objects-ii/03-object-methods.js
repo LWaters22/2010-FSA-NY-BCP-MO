@@ -27,7 +27,7 @@ let pusheen = {
   color: 'gray and tabby',
   isHappy: true,
   greet: function(){
-    console.log("Hello I am pusheen the cat.");
+    console.log('Hello I am pusheen the cat.');
   },
   getBirthYear: function(currentYear){
     return currentYear - 7;
@@ -38,23 +38,19 @@ let pusheen = {
   },
 
   sayAge: function(){
-    console.log("I am 7 years old.");
+    console.log('I am 7 years old.');
   }
 };
 
-
+/*
+let's try out other methods!
+*/
 console.log(pusheen.getBirthYear(2020));
 pusheen.personalGreet('Sula');
 
 pusheen.sayAge();
 
-
-pusheen.age += 7;
-
-console.log(pusheen.age);
-pusheen.sayAge();
-
-pusheen.name = 'Pusheen III';
-
-pusheen.greet();
-
+/** 
+ * important: since methods are just functions, anything that was possible with a function is possible with 
+ * a method
+*/
