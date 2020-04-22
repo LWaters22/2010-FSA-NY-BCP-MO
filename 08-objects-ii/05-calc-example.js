@@ -33,6 +33,9 @@ const bank = {
     console.log(`Your checking has ${this.checking}`);
   },
   // 'savings', 'checking'
+  /** 
+   * this
+  */
   depositXIntoN: function(amount, accountType) {
     this[accountType] += amount;
   }
