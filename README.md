@@ -173,7 +173,6 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 5. [Nested Loops](06-arrays-II/E-nested-looping.js)
 6. [Grid](06-arrays-II/F-grid.js)
 
-
 ## **07 Objects I**
 
 **[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
@@ -182,7 +181,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
 
-### Notes 
+### Notes
+
 [Full Notes](07-objects-i)
 
 0. [Code Snippets](07-objects-i/00-code-snippets.js)
@@ -196,7 +196,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 
-## **08 Object II**
+## **08 Objects II**
 
 **[Live Lecture](https://youtu.be/GZCwhot5uBA)**
 
@@ -204,7 +204,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
-### Notes 
+### Notes
+
 [Full Notes](08-objects-ii)
 
 1. [What Are Methods](08-objects-ii/01-what-are.js)
@@ -212,3 +213,27 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Object Methods](08-objects-ii/03-object-methods.js)
 4. [This Keyword](08-objects-ii/04-this-keyword.js)
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
+
+## **09 Pass by Value, Pass by Reference**
+
+<!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text) -->
+
+### Notes
+
+[Full Notes](09-pass-by-value-pass-by-reference)
+
+1. [Value Types](09-pass-by-value-pass-by-reference/A-value-types.js)
+2. [How Primitives Behave](09-pass-by-value-pass-by-reference/B-prim-observed.js)
+3. [How Complex Values Behave](09-pass-by-value-pass-by-reference/C-comp-observed.js)
+4. [How to Visualize a Primitive](09-pass-by-value-pass-by-reference/D-prim-var-vis.js)
+5. [Assigning Primitives](09-pass-by-value-pass-by-reference/E-assign-prim.js)
+6. [How to Visualize a Complex Value](09-pass-by-value-pass-by-reference/F-comp-var-vis.js)
+7. [Assigning Complex Values](09-pass-by-value-pass-by-reference/G-assign-comp.js)
+8. [Passing Primitive Values as Arguments](09-pass-by-value-pass-by-reference/H-pass-prim.js)
+9. [Passing Complex Values as Arguments](09-pass-by-value-pass-by-reference/I-pass-comp.js)
+10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
+11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
