@@ -1,16 +1,16 @@
-function sayToAll(names, sayWithNameFunc) {
-  for(let i = 0; i < names.length; i++) {
-    sayWithNameFunc(names[i]);
-  }
-}
+// function sayToAll(names, sayWithNameFunc) {
+//   for(let i = 0; i < names.length; i++) {
+//     sayWithNameFunc(names[i]);
+//   }
+// }
 
-let group = ["Jane", "Jill", "Pip", "Mike"];
+// let group = ["Jane", "Jill", "Pip", "Mike"];
 
-function sayHelloWithName(name) {
-  console.log("Hello, " + name + "!");
-}
+// function sayHelloWithName(name) {
+//   console.log("Hello, " + name + "!");
+// }
 
-sayToAll(group, sayHelloWithName);
+// sayToAll(group, sayHelloWithName);
 
 /*
 Notes:
@@ -28,17 +28,31 @@ Notes:
 
 // A common use for anonymous functions is as arguments to other functions. 
 
-// function sayToAll(names, sayWithNameFunc) {
-//   for(let i = 0; i < names.length; i++) {
-//     sayWithNameFunc(names[i]);
-//   }
-// }
 
-// let group = ["Jane", "Jill", "Pip", "Mike"];
 
-// sayToAll(group, function (name) {
-//   console.log("Bye, " + name + "!");
-// });
+
+function print(num){
+  console.log(num);
+}
+
+let x = 5;
+print(x);
+
+print(5);
+
+
+
+function sayToAll(names, sayWithNameFunc) {
+  for(let i = 0; i < names.length; i++) {
+    sayWithNameFunc(names[i]);
+  }
+}
+
+let group = ["Jane", "Jill", "Pip", "Mike"];
+
+sayToAll(group, function (name) {
+  console.log("Bye, " + name + "!");
+});
 
 /*
 Notes:

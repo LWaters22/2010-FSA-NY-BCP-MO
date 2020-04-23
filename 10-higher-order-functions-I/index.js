@@ -17,10 +17,6 @@ Program overview:
 Input: a corpus of text (speech, song, poetry, prose)
 Work: uses a Markov chain to turn input into n lines of new text (see workshop for details)
 Output: a poem of n lines
-Complete by final night of class to participate in friendly competition; win one of three categories:
-Most human sounding
-Funniest
-Most romantic
 
 Examples:
 ---------

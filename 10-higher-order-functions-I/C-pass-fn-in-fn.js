@@ -2,11 +2,11 @@
 
 /* we know we can pass strings, or any value, into a function */
 
-function logsAType(value) {
-  console.log(typeof value);
-}
+// function logsAType(value) {
+//   console.log(typeof value);
+// }
 
-logsAType('happy string');
+// logsAType('happy string');
 
 /*
 Notes:
@@ -91,19 +91,19 @@ Notes:
 // EXAMPLE TWO
 // ------------------------------
 
-// function addWorld(string) {
-// // string = 'hello';
-// // return 'hello world';
-//   return string + ' world';
-// }
+function addWorld(string) {
+// string = 'hello';
+// return 'hello world';
+  return string + ' world';
+}
 
-// function callsWithHello(func) {
-// // return addWorld('hello');
-//   return func('hello');
-// }
+function callsWithHello(func) { // let func = addWorld
+// return addWorld('hello');
+  return func('hello');
+}
 
-// let result = callsWithHello(addWorld);
-// console.log(result);
+let result = callsWithHello(addWorld);
+console.log(result);
 
 /*
 Notes:
