@@ -9,7 +9,7 @@ let myArray = [10];
 myArray: [10]
 */
 
-function pushes20(array) {
+function pushes20(array) { // let array = myArray;
   array.push(20);
   return array;
 }
@@ -31,6 +31,7 @@ function pushes20(array) {
 // }
 
 let returnedArray = pushes20(myArray);
+
 /*
 myArray: 0x001 => [10,20]
 returnedArray: 0x001 => [10,20]

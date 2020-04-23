@@ -9,7 +9,7 @@ let myNum = 10;
 myNum: 10
 */
 
-function adds20(num) {
+function adds20(num) { // let num = myNum;
   num += 20;
   return num;
 }
