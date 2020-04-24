@@ -240,7 +240,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **10 Higher Order Functions I**
 
-<!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
+**[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
@@ -256,19 +256,19 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Anonymous Functions](10-higher-order-functions-I/D-anon-functions.js)
 5. [Array.forEach()](10-higher-order-functions-I/E-for-each.js)
 
-<!-- ## **11 Higher Order Functions II** -->
+## **11 Higher Order Functions II**
 
 <!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text) -->
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text) -->
 
-<!-- ### Notes
+### Notes
 
 [Full Notes](11-higher-order-functions-II)
 
 1. [Returning Values From Functions](11-higher-order-functions-II/A-ret-val-func.js)
 2. [Returning Functions From Functions](11-higher-order-functions-II/B-ret-fnc-fnc.js)
 3. [Passing Functions in Functions](11-higher-order-functions-II/C-scope.js)
-4. [Closure](11-higher-order-functions-II/D-closure.js) -->
+4. [Closure](11-higher-order-functions-II/D-closure.js)
