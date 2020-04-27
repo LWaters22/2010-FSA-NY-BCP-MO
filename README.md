@@ -258,7 +258,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **11 Higher Order Functions II**
 
-<!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
+**[Live Lecture](https://youtu.be/IuD8a51qfyU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
