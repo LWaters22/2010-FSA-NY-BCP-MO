@@ -11,11 +11,11 @@
 // }
 
 
-function countdown (num) {
-  while (num >= 1) {
-    console.log(num);
-    num--;
-  }
-}
+// function countdown (num) {
+//   while (num >= 1) {
+//     console.log(num);
+//     num--;
+//   }
+// }
 
-countdown(5);
+// countdown(5);

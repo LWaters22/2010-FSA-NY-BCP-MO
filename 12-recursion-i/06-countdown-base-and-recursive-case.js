@@ -19,10 +19,17 @@ https://goo.gl/EpNPCt
 
 
 // function countdown(num) {
+//   console.log(num);
+//   // stop condition, base condition
+//   if (num <= 0) {
+//     console.log('done');
+//     return;
+//   }
+//   countdown(num - 1);
 
 // }
 
-// countdown(3);
+// countdown(5);
 
 
 
@@ -85,6 +92,7 @@ function countdown(num) {
 
 
 function countdown(num) {
+  // num = 4
   // recursive case
   if (num >= 1){
     console.log(num);
@@ -92,8 +100,9 @@ function countdown(num) {
     countdown(num);
 
     // CAREFUL WHICH ONE OF THESE YOU USE
-    // countdown(num--);  // 
-    // countdown(num - 1); // countdown(num--); MAX CALL STACK EXCEEDED
+    // countdown(num--);  // countdown(num--); MAX CALL STACK EXCEEDED
+    // countdown(4)
+    // countdown(num - 1); // 
     // countdown(--num); //perfectly fine
   } else {
     // base case

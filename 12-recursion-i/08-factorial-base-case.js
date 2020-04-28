@@ -19,14 +19,14 @@ as a reminder:
 what look like simple inputs/outputs we can use to build a base case? 
 */
 
-// function factorial(num) {
-//   // base case: num is 0 or 1
-//   if (num === 0 || num === 1) {
-//     return 1;
-//   }
-// }
-// factorial(0);
-// factorial(1);
+function factorial(num) {
+  // base case: num is 0 or 1
+  if (num === 0 || num === 1) {
+    return 1;
+  }
+}
+console.log(factorial(0));
+console.log(factorial(1));
 
 /* 
 BASE CASE SET! Moving on to the recursive step

@@ -16,12 +16,27 @@
 //   return sum;
 // }
 
+// function sumArray(arr) {
+//   if (arr.length === 0) {
+//     return 0;
+//   }
+//   if (arr.length === 1) {
+//     return arr[0];
+//   }
+// }
+
+// console.log(sumArray([])); // 0
+// console.log(sumArray([3])); // 3
+// console.log(sumArray([2, 3])); // simplest recursive
+
 /*
 how would we do this with recursion?
 
 base case -> length based(0 or 1)
 [] => 0 // has no length, sum = 0
 [2] => 2  // 1 elem, sum =  elem
+
+
 
 simplest recursive case
 

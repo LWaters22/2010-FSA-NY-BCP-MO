@@ -16,7 +16,7 @@ function factorial(num) {
   return result;
 }
 
-let result = factorial(3);
+let result = factorial(20);
 console.log(result);
 
 
