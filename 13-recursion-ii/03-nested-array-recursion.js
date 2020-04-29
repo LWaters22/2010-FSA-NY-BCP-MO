@@ -12,11 +12,10 @@ function logsAnArray(array) {
       // call function on nested array
       logsAnArray(element);
     } else {
-
       // base case
       console.log(element);
     }
-  
+
   }
 }
 
