@@ -282,7 +282,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **12 Recursion I**
 
-**[Live Lecture](https://www.youtube.com/watch?v=y04bUaHq7wE)**
+**[Live Lecture]()**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -301,3 +301,26 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 9. [Factorial - simple recursive case](12-recursion-i/09-factorial-simple-recursive-case.js)
 10. [Factorial- solution + takeaways](12-recursion-i/10-factorial-solution-takeaways.js)
 11. [Recursion + arrays](12-recursion-i/11-recursion-and-arrays.js)
+
+
+## **13 Recursion II**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+<!-- [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)  -->
+
+### Notes 
+[Full Notes](13-recursion-ii)
+
+1. [Backwards String Review](13-recursion-ii/00-backward-string-review.js)
+2. [Array Base Case I](13-recursion-ii/01-array-base-case.js)
+3. [Array Base Case II](13-recursion-ii/02-array-base-case-ii.js)
+4. [Nested Array Recursion](13-recursion-ii/03-nested-array-recursion.js)
+5. [Array Base Case /w return](13-recursion-ii/04-array-base-case.js)
+6. [Nested Array Recursion /w return](13-recursion-ii/05-nested-array-recursion.js)
+7. [Object Base Case](13-recursion-ii/06-object-base-case.js)
+8. [Nested Object Recursion](13-recursion-ii/07-nested-object-recursion.js)
+9. [Search Party](13-recursion-ii/08-search-party.js)
+10.[Review](13-recursion-ii/09-review.js)
