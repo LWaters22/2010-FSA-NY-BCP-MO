@@ -1,3 +1,4 @@
+/* eslint-disable guard-for-in */
 /* 
 write a function sumVals that sums the values in an object 
 
@@ -12,5 +13,5 @@ function sumVals(obj) {
   return sum;
 }
 
-let result = sumVals({a: 10, b: 20});
-console.log(result);
+let result = sumVals({ a: 10, b: 20 }); 
+console.log(result); // 30

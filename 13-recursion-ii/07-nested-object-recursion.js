@@ -1,3 +1,4 @@
+/* eslint-disable guard-for-in */
 /* 
 
 https://goo.gl/mVK9Jt
@@ -10,8 +11,11 @@ function sumVals(obj) {
   for (let key in obj) {
     let value = obj[key];
     if (typeof value === 'object') {
-      sum += sumVals(value)
+      // recursive case
+      const sumOfNestedObj = sumVals(value);
+      sum += sumOfNestedObj;
     } else {
+      // base case
       sum += value;
     }
   }
@@ -19,7 +23,7 @@ function sumVals(obj) {
 }
 
 
-let result1 = sumVals({ a: 1, b: { c: 3 }}); // 4
+// let result = sumVals({ a: 1, b: { c: 3 }}); // 4
 
 let result = sumVals({
   a: 1,
