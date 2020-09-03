@@ -50,7 +50,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **01 Introduction and tidy code**
 
-**[Live Lecture](https://youtu.be/QKurwDWS8ds)**
+**[Live Lecture] to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
@@ -73,7 +73,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/V1HdKQRHWI8)**
+**[Live Lecture] to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
@@ -93,7 +93,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/x0K-tGFs9Ck)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
@@ -113,7 +113,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **04 Scope**
 
-**[Live Lecture](https://youtu.be/bkONsN8SqX0)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
@@ -135,7 +135,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/86IVxke3bx0)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
@@ -162,7 +162,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **06 Arrays II**
 
-**[Live Lecture](https://youtu.be/FOx6DlR0ftQ)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
@@ -181,7 +181,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **07 Objects I**
 
-**[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -204,7 +204,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **08 Objects II**
 
-**[Live Lecture](https://youtu.be/GZCwhot5uBA)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
@@ -222,7 +222,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture](https://youtu.be/5UPA-Xa1Wi0)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
@@ -246,7 +246,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **10 Higher Order Functions I**
 
-**[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
@@ -264,7 +264,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **11 Higher Order Functions II**
 
-**[Live Lecture](https://youtu.be/IuD8a51qfyU)**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
