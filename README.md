@@ -50,7 +50,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **01 Introduction and tidy code**
 
-**[Live Lecture] to come**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
@@ -73,7 +73,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture] to come**
+**[Live Lecture]to come**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
