@@ -124,22 +124,22 @@ I know that I used arrays in these past few examples, but this concept of copyin
 
 // So in this example, we're going to work with objects instead
 
-let first = {name: 'Ariel'};
+let first = {name: 'Laura'};
 /*
-first: 0x001 => {name: 'Ariel'}
+first: 0x001 => {name: 'Laura'}
 */
 
 let second = first; /* second now stores a copy of the REFERENCE that was originally stored in first */
 /*
-first: 0x001 => {name: 'Ariel'}
-second: 0x001 => {name: 'Ariel'}
+first: 0x001 => {name: 'Laura'}
+second: 0x001 => {name: 'Laura'}
 */
 
 /* first and second share the same reference to the same object! */
-second.name = 'Sulamita';
+second.name = 'Noor';
 /*
-first: 0x001 => {name: 'Sulamita'}
-second: 0x001 => {name: 'Sulamita'}
+first: 0x001 => {name: 'Noor'}
+second: 0x001 => {name: 'Noor'}
 */
 
 console.log(first);

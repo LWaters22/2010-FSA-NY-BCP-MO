@@ -4,7 +4,7 @@ Credit to [Sulamita](https://github.com/kyusulamita) for the template repo!
 
 Hello! This is where Laura and Noor will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
-[![Run on Repl.it](https://repl.it/badge/github/kyusulamita/0420-BCP)](https://repl.it/github/kyusulamita/0420-BCP)
+[![Run on Repl.it](https://repl.it/badge/github/LWaters22/2009-FSA-NY-BCP-MO)](https://repl.it/github/LWaters22/2009-FSA-NY-BCP-MO)
 
 ## Table of Contents
 
