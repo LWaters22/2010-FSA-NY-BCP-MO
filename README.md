@@ -2,7 +2,7 @@
 
 Credit to [Sulamita](https://github.com/kyusulamita) for the template repo!
 
-Russell and Laura's class of fun!
+🎉  Russell and Laura's class of fun!  🎉 
 
 Hello! This is where Laura and Russell will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
