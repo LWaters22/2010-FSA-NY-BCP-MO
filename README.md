@@ -43,7 +43,7 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 ## **01 Introduction and tidy code**
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/6tTD6KGYEh8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
@@ -57,3 +57,25 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
+
+## **02 Loops And Debugging**
+
+**[Prerecorded Lecture]tocome**
+
+[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+**[Live Lecture]to come**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
+
+### Notes
+
+[Full Notes](02-loops-and-debugging)
+
+1. [While Loop](02-loops-and-debugging/01-while-loop.js)
+2. [For Loop](02-loops-and-debugging/02-for-loop.js)
+3. [Which is Better](02-loops-and-debugging/03-which-is-better.js)
+4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
+5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
