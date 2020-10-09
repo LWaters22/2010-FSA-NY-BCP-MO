@@ -58,13 +58,14 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
 
+
 ## **02 Loops And Debugging**
 
-**[Prerecorded Lecture]tocome**
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/-Mi8lhn3PPY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
