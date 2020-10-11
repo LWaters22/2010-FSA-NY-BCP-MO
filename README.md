@@ -84,13 +84,15 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 ## **03 Coercion and Truthiness**
 
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed57/text)**
+
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
 **[Live Lecture]to come**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text) (won't be available till class)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) (won't be available till after class)
 
 ### Notes
 
