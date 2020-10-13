@@ -88,7 +88,7 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/ftKB4Dxlryg)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text) (won't be available till class)
 
@@ -105,3 +105,27 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 5. [Boolean Coercion 2](03-coercion-and-truthiness/06-boolean-coercion-2.js)
 6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
+ 
+## **04 Scope**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
+
+**[Live Lecture]to come**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text) (won't be available till class)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) (won't be available till after class)
+
+### Notes
+
+[Full Notes](04-scope)
+
+1. [Global Scope](04-scope/01-global-scope.js)
+2. [Global Scope II](04-scope/02-global-scope-ii.js)
+3. [Functional Scope](04-scope/03-functional-scope.js)
+4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
+5. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
+6. [Nested Functions](04-scope/06-nested-functions.js)
+7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
+8. [Block Scope](04-scope/08-block-scope.js)
+9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
