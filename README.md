@@ -88,7 +88,7 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/ftKB4Dxlryg)**
+**[Live Lecture](https://youtu.be/WWRcwXXY9rw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text) (won't be available till class)
 
