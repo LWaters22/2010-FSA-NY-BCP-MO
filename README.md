@@ -110,11 +110,11 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb8/text)**
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/kus5xhOoIk0)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text) (won't be available till class)
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text) 
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) (won't be available till after class)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) 
 
 ### Notes
 
