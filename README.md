@@ -129,3 +129,30 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
 8. [Block Scope](04-scope/08-block-scope.js)
 9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
+
+## **05 Arrays I**
+
+**[Live Lecture](https://youtu.be/lK3FlHgXc38)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
+
+### Notes
+
+[Full Notes](05-arrays-I)
+
+1. [Array Definition](05-arrays-I/A-array-definition.js)
+2. [Typeof & Array.isArray()](05-arrays-I/B-typeof-isArray.js)
+3. [Bracket Access](05-arrays-I/C-bracket-access.js)
+4. [Bracket Assignment](05-arrays-I/D-br-assignment.js)
+5. [Array Looping](05-arrays-I/E-array-looping.js)
+6. [Array Length](05-arrays-I/F-array-length.js)
+7. [Array.push()](05-arrays-I/G-array-push.js)
+8. [Array.pop()](05-arrays-I/H-array-pop.js)
+9. [Array.shift()](05-arrays-I/I-array-shift.js)
+10. [Array.unshift()](05-arrays-I/J-array-unshift.js)
+11. [Array.indexOf()](05-arrays-I/K-array-indexof.js)
+12. [Array.slice()](05-arrays-I/L-array-slice.js)
+13. [Array.includes()](05-arrays-I/M-array-includes.js)
+14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
