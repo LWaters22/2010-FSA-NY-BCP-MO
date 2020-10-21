@@ -198,3 +198,48 @@ Hello! This is where Laura and Russell will put all the material for BCP. If any
 7. [Object Methods](07-objects-i/07-object-methods.js)
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
+
+
+## **08 Objects II**
+
+**[Live Lecture](
+https://youtu.be/DZ1IpHCDdig)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+
+### Notes
+
+[Full Notes](08-objects-ii)
+
+1. [What Are Methods](08-objects-ii/01-what-are.js)
+2. [Creating Methods](08-objects-ii/02-creating-methods.js)
+3. [Object Methods](08-objects-ii/03-object-methods.js)
+4. [This Keyword](08-objects-ii/04-this-keyword.js)
+5. [Calculator Example](08-objects-ii/05-calc-example.js)
+
+## **09 Pass by Value, Pass by Reference**
+
+**[Live Lecture]to come**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
+
+### Notes
+
+[Full Notes](09-pass-by-value-pass-by-reference)
+
+1. [Value Types](09-pass-by-value-pass-by-reference/A-value-types.js)
+2. [How Primitives Behave](09-pass-by-value-pass-by-reference/B-prim-observed.js)
+3. [How Complex Values Behave](09-pass-by-value-pass-by-reference/C-comp-observed.js)
+4. [How to Visualize a Primitive](09-pass-by-value-pass-by-reference/D-prim-var-vis.js)
+5. [Assigning Primitives](09-pass-by-value-pass-by-reference/E-assign-prim.js)
+6. [How to Visualize a Complex Value](09-pass-by-value-pass-by-reference/F-comp-var-vis.js)
+7. [Assigning Complex Values](09-pass-by-value-pass-by-reference/G-assign-comp.js)
+8. [Passing Primitive Values as Arguments](09-pass-by-value-pass-by-reference/H-pass-prim.js)
+9. [Passing Complex Values as Arguments](09-pass-by-value-pass-by-reference/I-pass-comp.js)
+10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
+11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
+
