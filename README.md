@@ -243,3 +243,38 @@ https://youtu.be/DZ1IpHCDdig)**
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
 11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
+
+## **10 Higher Order Functions I**
+
+**[Live Lecture]to come**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+
+### Notes
+
+[Full Notes](10-higher-order-functions-I)
+
+1. [Why Functions Are Special](10-higher-order-functions-I/A-fn-special.js)
+2. [Functions in Arrays](10-higher-order-functions-I/B-fn-in-arrays.js)
+3. [Passing Functions in Functions](10-higher-order-functions-I/C-pass-fn-in-fn.js)
+4. [Anonymous Functions](10-higher-order-functions-I/D-anon-functions.js)
+5. [Array.forEach()](10-higher-order-functions-I/E-for-each.js)
+<!-- 
+## **11 Higher Order Functions II**
+
+**[Live Lecture]to come**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+
+### Notes
+
+[Full Notes](11-higher-order-functions-II)
+
+1. [Returning Values From Functions](11-higher-order-functions-II/A-ret-val-func.js)
+2. [Returning Functions From Functions](11-higher-order-functions-II/B-ret-fnc-fnc.js)
+3. [Passing Functions in Functions](11-higher-order-functions-II/C-scope.js)
+4. [Closure](11-higher-order-functions-II/D-closure.js) -->
