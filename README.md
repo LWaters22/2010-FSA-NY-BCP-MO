@@ -221,7 +221,7 @@ https://youtu.be/DZ1IpHCDdig)**
 
 ## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/BT3XednoRCE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
