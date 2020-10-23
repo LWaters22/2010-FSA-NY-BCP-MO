@@ -246,7 +246,7 @@ https://youtu.be/DZ1IpHCDdig)**
 
 ## **10 Higher Order Functions I**
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/24BqIK1_zKk)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
@@ -261,7 +261,8 @@ https://youtu.be/DZ1IpHCDdig)**
 3. [Passing Functions in Functions](10-higher-order-functions-I/C-pass-fn-in-fn.js)
 4. [Anonymous Functions](10-higher-order-functions-I/D-anon-functions.js)
 5. [Array.forEach()](10-higher-order-functions-I/E-for-each.js)
-<!-- 
+
+
 ## **11 Higher Order Functions II**
 
 **[Live Lecture]to come**
@@ -277,4 +278,4 @@ https://youtu.be/DZ1IpHCDdig)**
 1. [Returning Values From Functions](11-higher-order-functions-II/A-ret-val-func.js)
 2. [Returning Functions From Functions](11-higher-order-functions-II/B-ret-fnc-fnc.js)
 3. [Passing Functions in Functions](11-higher-order-functions-II/C-scope.js)
-4. [Closure](11-higher-order-functions-II/D-closure.js) -->
+4. [Closure](11-higher-order-functions-II/D-closure.js)
