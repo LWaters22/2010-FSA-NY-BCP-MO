@@ -265,7 +265,7 @@ https://youtu.be/DZ1IpHCDdig)**
 
 ## **11 Higher Order Functions II**
 
-**[Live Lecture]to come**
+**[Live Lecture](https://youtu.be/8vRttc_zNu8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
