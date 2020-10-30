@@ -323,3 +323,7 @@ https://youtu.be/DZ1IpHCDdig)**
 8. [Nested Object Recursion](13-recursion-ii/07-nested-object-recursion.js)
 9. [Search Party](13-recursion-ii/08-search-party.js)
 10.[Review](13-recursion-ii/09-review.js)
+
+### Next Steps
+
+**[Live Lecture](https://youtu.be/lxb0SNdtq9A)**
